@@ -11,8 +11,13 @@ This is an Ethereum application built using python, deployed using streamlit, an
 
 ---
 
-## Verification of Payment:
+## Validated Payment:
 ![validate](Images/validate.png)
+
+---
+
+## Transaction Recorded on Ganache Test Network:
+![ganache](Images/ganache.png)
 
 ---
 
