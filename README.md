@@ -1,5 +1,5 @@
 # EthWork_Integrated_Eth_Payments
-This is an Ethereum [application](https://derickdecesare-blockchain-ledger-app-pychain-oco6ek.streamlitapp.com/) built using python, deployed using streamlit, and utilizing the ganache test network that allows users to find EthWork professionals and pay them in Ether. Once paid a Validated Transaction Hash is displayed that can be used to verify the success of payment.
+This is an Ethereum application built using python, deployed using streamlit, and utilizing the ganache test network that allows users to find EthWork professionals and pay them in Ether. Once paid a Validated Transaction Hash is displayed that can be used to verify the success of payment.
 
 ## Browse your EthWork Professionals:
 ![pick](Images/pick.png)
@@ -34,11 +34,7 @@ This analysis uses Python and the following libraries:
 
 ## Installation Guide
 
-You can use the streamlit web app at [this link](https://derickdecesare-blockchain-ledger-app-pychain-oco6ek.streamlitapp.com/). 
-
-OR
-
-You can run it locally, if you'd like to repurpose it for your own use. To do so please follow these steps:
+To run this app please follow these steps:
 
 1. Download and install [Anaconda](https://www.anaconda.com/products/distribution). 
 
@@ -63,7 +59,7 @@ streamlit run ethWork.py
 
 ## Usage
 
-After lauching the application through the [streamlit app](https://derickdecesare-blockchain-ledger-app-pychain-oco6ek.streamlitapp.com/) or by running it locally on your computer you can select different proffesionals on EthWork and determine how many hours you wish to hire them for. Then you can send them payments in eth directly from the app and verify that the transactions went through.
+After lauching the application on your computer you can select different proffesionals on EthWork and determine how many hours you wish to hire them for. Then you can send them payments in eth directly from the app and verify that the transactions went through.
 
 ---
 
